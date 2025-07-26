@@ -1,0 +1,5 @@
+*.exe
+*.txt
+*.dsym
+/.vscode
+*.code-workspace
